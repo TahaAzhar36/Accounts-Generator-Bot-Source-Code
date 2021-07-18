@@ -1,0 +1,20 @@
+help
+add
+command
+$command
+token
+-su
+set
+set Nzk0OTY2NzI5NjQxMDMzNzgw.X_Cgdg.cYjySL9UAguLn8Uk5sRztZ6JGug
+help
+reload
+help
+wait
+reload
+reload
+acivate
+run
+help
+select
+waot
+wait
